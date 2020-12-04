@@ -1,4 +1,4 @@
-# Digital Crafts Teacher Notes (Clint)
+# Teacher Notes
 
 ## Table Of Contents
 1. [Developer Fundementals](https://github.com/DigitalCraftsStudents/Instructor-Notes-Clint/tree/master/Developer-Fundamentals)
