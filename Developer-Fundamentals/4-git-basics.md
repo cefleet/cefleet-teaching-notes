@@ -21,10 +21,10 @@
 
 ## Create First Git repository
 
-We will create a git repository from the DigitalCrafts/classes folder.
+We will create a git repository from the CodingLessons/classes folder.
 
 1. ```bash
-    cd ~/DigitalCrafts/classes
+    cd ~/CodingLessons/classes
     git init    #Initilizes a git repo
     ls -lart   #You should see a .git folder
     git status  #shows the status of items

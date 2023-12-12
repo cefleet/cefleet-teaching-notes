@@ -17,17 +17,17 @@
 
 **In Class**
 
-DigitalCrafts / classes / {subject_title}-{day_x(optional)} /
+CodingLessons / classes / {subject_title}-{day_x(optional)} /
 
 In these folders you will keep class notes, example code, and exercises for that specific topic.
 
 **Projects**
 
-DigitalCrafts / projects / {project-name}
+CodingLessons / projects / {project-name}
 
 The folder structrure for the project can vary from project to project.
 
 ## Exercise
-1. Create a folder in the DigitalCrafts Folder called classes.
+1. Create a folder in the CodingLessons Folder called classes.
 2. Create a folder for command line instructions in the digital crafts classes folder. (name the folder something logical)
-3. Move the file "command-line.md" from the DigitalCrafts folder into the newly created folder.
+3. Move the file "command-line.md" from the CodingLessons folder into the newly created folder.

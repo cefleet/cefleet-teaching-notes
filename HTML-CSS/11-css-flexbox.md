@@ -97,5 +97,3 @@
         </div>
     ...
     </div>
-## Exercises
->https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/flexbox/#training-exercises

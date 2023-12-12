@@ -96,5 +96,3 @@
         <p class="item4"> sticky positioned </p>
     </div>
 
-## Exercises
-> https://learn.digitalcrafts.com/immersive/lessons/front-end-foundations/css-position/#training-exercises

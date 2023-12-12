@@ -41,8 +41,6 @@
 
 >The list starts with 0, so the first item is always 0 and counts up in order.
 
-> [Additional Information](https://learn.digitalcrafts.com/immersive/lessons/solving-problems-using-code/sequences/#how-do-i-access-items-in-a-sequence)
-
 - ```python
     my_children = ["Olivia", "Alle", "Mark"]
     #Assigning the results to a variable

@@ -20,7 +20,7 @@
     let myJsonObject = `{
         "name":"Clint",
         "age":39,
-        "email":"clint@digitalcrafts.com"
+        "email":"clint@clintfleetwood.com"
     }`
     //JSON objects are more like python dictonaries. They require the key to have double quotes.
 
@@ -28,7 +28,7 @@
         {
             "name":"Clint",
             "age":39,
-            "email":"clint@digitalcrafts.com"
+            "email":"clint@clintfleetwood.com"
         },
         {
             "name":"Anna",
@@ -73,7 +73,7 @@
     let jsonObjString = JSON.stringify({
         name:"Clint",
         age:39,
-        email:"clint@digitalcrafts.com"
+        email:"clint@clintfleetwood.com"
     })
     //still just a string
 - ```js

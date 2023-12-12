@@ -17,7 +17,7 @@
     console.log(y)
 
     //you do not need everything
-    let me = ["Clint", 29, "clint@digitalcrafts.com", 160]
+    let me = ["Clint", 29, "clint@clintfleetwood.com", 160]
     let [name,age] = me
     console.log(name,age)
 
@@ -35,7 +35,7 @@
      console.log(x,y,foo)
 ## Objects
 - ```js
-    let me = {name:"Clint", age:29, email:"clint@digitalcrafts.com"}
+    let me = {name:"Clint", age:29, email:"clint@dclintfleetwood.com"}
 
     // A pattern you will see in react ... a LOT
     //Grabs the keys and assigns a variable to that named key

@@ -64,7 +64,7 @@
     1. ```bash
         
         #Clone and install cors-anywhere
-        git clone https://github.com/DigitalCraftsStudents/cors-anywhere.git
+        //refind cors-anywhere
         cd cors-anywhere
         npm install
 

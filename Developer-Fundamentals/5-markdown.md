@@ -65,7 +65,7 @@ function foo(){
 https://www.markdownguide.org/cheat-sheet
 
 ## Exercise
-1. Create a README.md file at the root of the DigitalCrafts/classes folder.
+1. Create a README.md file at the root of the CodingLessons/classes folder.
 2. Give the file a title using the # syntax.
 3. Give a description of the repository under that heading.
 4. (Bonus) Create a table of contents that will link to the folder for each topic.

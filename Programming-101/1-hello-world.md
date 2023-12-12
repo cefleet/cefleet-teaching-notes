@@ -11,7 +11,7 @@
 
 ## Create Your First Program
 
-1. Create a new folder inside the DigitalCrafts/classes folder called "programming-101" (or something similer)
+1. Create a new folder inside the CodingLessons/classes folder called "programming-101" (or something similer)
 2. Open vscode and create a new file in this folder called "hello-world.py"
 3. ```python
     print("Hello World") #Prints 'Hello World'

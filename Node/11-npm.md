@@ -112,9 +112,8 @@ Most packages have a page that looks like the one above.
 > Sometimes you will need to clone another persons repository that is not in npm database. You will need to clone, then install it to load all of the dependencies. 
 - ```bash
     # Terminal in a folder you want to install the project
-    git clone https://github.com/DigitalCraftsStudents/Serve-With-Proxy
-
-    cd Serve-With-Proxy
+    
+    //TODO add package
 
     npm install
 

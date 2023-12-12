@@ -23,7 +23,7 @@
     //syntax
     {...iteratableObject, key1:value1, key2:value2}
 
-    let me = {firstName:"Clint",lastName:"Fleetwood", email:"clint@digitalcrafts.com"}
+    let me = {firstName:"Clint",lastName:"Fleetwood", email:"clint@dclintfletwood.com"}
 
     let newPerson = {age:39, ...me}
     console.log(newPerson)

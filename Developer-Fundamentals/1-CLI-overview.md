@@ -30,8 +30,8 @@
     cd ~
     pwd
 - ```bash
-    mkdir ~/DigitalCrafts
-    cd DigitalCrafts
+    mkdir ~/CodingLessons
+    cd CodingLessons
     pwd
 
 ### Additional Commands
@@ -42,7 +42,7 @@
     pwd
     cd /home/{your_username}
     pwd
-    cd ~/DigitalCrafts
+    cd ~/CodingLessons
     pwd
     cd ../
     pwd
@@ -55,6 +55,6 @@
 1. Create a file called "command-line.md" using the touch command.
    - ```bash
         touch {name_of_file}
-2. Move the file just created from current directory to inside the DigitalCrafts folder using the mv command.
+2. Move the file just created from current directory to inside the CodingLessons folder using the mv command.
    - ```bash
         mv {name_of_file} {directory_to_move_file_to} 
