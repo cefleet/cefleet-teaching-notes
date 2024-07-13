@@ -49,7 +49,7 @@
 
 ## Exercises
 1. Write a program that prints out the result of adding two numbers together.
-2. Write a program that print sthe results of you age divided by the year you graduated from high school.
+2. Write a program that prints the results of you age divided by the year you graduated from high school.
 3. Write a program that assigns a number to the variable named 'my_number'.
     - Assign another variable named 'increment_by' another number.
     - increase my_number by the incriment_by number 3 times, printing the value of my_number every time. 

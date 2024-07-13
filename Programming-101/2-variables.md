@@ -48,11 +48,11 @@ My Name is :
 Clint 
 Fleetwood
 I am :
-38
+42
 years old!
 Goodby.
 ```
-Where "Clint", "Fleetwood", & "38" would be the value of the variables.
+Where "Clint", "Fleetwood", & "42" would be the value of the variables.
 
 ## Extra notes
 [Operators List](https://www.w3schools.com/python/python_operators.asp)
