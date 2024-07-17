@@ -115,6 +115,6 @@
     - Print each one of these key/values pairs without directly using the key's name as a string by using a for loop.
     - After each key value pair, print out a sentence using each one of the keys. 
     ```
-        Hello Clint Fleetwood. Since you are 38 years old you are too old to ride this ride, but you do have nice brown hair.
+        Hello Clint Fleetwood. Since you are 42 years old you are too old to ride this ride, but you do have nice brown hair.
 3. Create a program that has a list of dictionaries of people, with each dictionary including name, phone, email.
     - For each dictionary print the items in the dictionary. 

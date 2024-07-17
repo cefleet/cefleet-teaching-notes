@@ -1,6 +1,7 @@
-# Week 9
-//splitting code int multiple files
-//Module imports
+# Week 10
+//error handling programming 101:10
+
+//libraries / standard (not developed yet) https://docs.python.org/3/library/index.html
 
 ## Homework
 1. Complete any exercises that have not been finished.
