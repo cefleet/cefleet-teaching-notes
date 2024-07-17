@@ -1,10 +1,8 @@
 # Week 3
 
 (0:00)
-## CLI / GIT
+## CLI
 > TL : Developer-Fundamentals/1-CLI-overview.md
-
-> TLE(E-together) : Developer-Fundamentals/2-git-basics.md
 
 (0:25)
 ## Logic Operations
@@ -16,7 +14,6 @@
 
 ## Homework
 1. Complete any exercises that are not completed.
-2. Create a program that will ask for a password and let the user know if the password is correct. Save the program in a new github repository.
+2. Create a program that will ask for a password and let the user know if the password is correct.
 -  Accacptance criteria:
     - use a variable to store the password.
-    - The program must be saved in a new public github repository.

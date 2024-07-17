@@ -18,5 +18,4 @@
 (0:55)
 ## Homework
 1. Make sure that the excersises are completed.
-2. Make sure you have a github account.
 3. Review code and prepare any questions about previous lessons you may have.

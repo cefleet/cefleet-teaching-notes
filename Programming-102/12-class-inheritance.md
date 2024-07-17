@@ -9,7 +9,7 @@
 ## Using inheritance create a subclass
 - ```python
     # Previous class lesson without print text
-    class Mob:
+    class Unit:
         def __init__(self, name, health = 10, attack_power = 2):
             self.name = name
             self.health = health
@@ -22,24 +22,24 @@
             enemy.get_hit(self.attack_power)
     
     #not very useful but valid
-    class Hero(Mob):#Hero class is a sublclass of Mob
+    class Hero(Unit):#Hero class is a sublclass of Unit
         pass
     
     hero = Hero("Sir Galahand")
     print(hero.name)
 - ```python
-    class Hero(Mob):
+    class Hero(Unit):
         # method only available in the Hero Subclass
         def yell(self):
             print("I %s, say to thou villian. Prepare to die!" % self.name)
 
     hero = Hero("Sir Galahand")
-    bad_guy = Mob("Evil McEvil")
+    bad_guy = Unit("Evil McEvil")
     hero.yell()
     bad_guy.yell()#Error!
 ## Overiding class methods
 - ```python
-    class Hero(Mob):
+    class Hero(Unit):
         #overriding __init__
         def __init__(self):
             #Can repeate for every item
@@ -55,13 +55,13 @@
         ...#yell method
     
     hero = Hero()#all arguments default
-    bad_guy = Mob('Evil McEvil', 10)
+    bad_guy = Unit('Evil McEvil', 10)
     print(hero.name)#added automatically 
     bad_guy.attack(hero)
     print(hero.health)#health only went down by one because of defence
 ## Use super to use parent class methods
 - ```python
-    class Hero(Mob):
+    class Hero(Unit):
         def __init__(self):
             # Calling super
             #self is not the first arg!

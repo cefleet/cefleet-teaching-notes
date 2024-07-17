@@ -8,8 +8,7 @@
 
 ## Defining class methods
 - ```python
-    #in game terms mob stands for mobile. It can be anything that moves including enemies, npc, and the player's characters.
-    class Mob:
+    class Unit:
         def __init__(self, name, health = 10):
             self.name = name
             self.health = health
@@ -18,7 +17,7 @@
         def get_hit(self, power):
             print('I, %s, have been hit for %s!' % (self.name, power))
 
-    hero = Mob("Sir Galahand", 20)
+    hero = Unit("Sir Galahand", 20)
     #self is not placed here. The class handles that itself
     hero.get_hit(2)
 ## Modifying attributes with class methods
@@ -29,11 +28,11 @@
             self.health = self.health - power
             print('I, %s, have been hit for %s and now have %s health' % (self.name, power, self.health))
 
-    hero = Mob("Sir Galahand", 20)
+    hero = Unit("Sir Galahand", 20)
     hero.get_hit(4)
     hero.get_hit(6)
 - ```python
-    class Mob:
+    class Unit:
         def __init__(self, name, health = 10, attack_power = 2):
             self.name = name
             self.health = health
@@ -46,8 +45,8 @@
             print("I am attacking %s for %s power" % (enemy.name, self.attack_power))
             enemy.get_hit(self.attack_power)
             
-    hero = Mob("Sir Galahand", 20,3)
-    bad_guy = Mob('Evil McEvil', 10)
+    hero = Unit("Sir Galahand", 20,3)
+    bad_guy = Unit('Evil McEvil', 10)
 
     hero.attack(bad_guy)
     bad_guy.attack(hero)

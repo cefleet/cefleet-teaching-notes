@@ -19,12 +19,12 @@
     print("You chose %s as your subject" % subject)
 
     age = input('How old are you?\n')
-    if age >= 21: #<- error caused here
+    if age >= 13: #<- error caused here
         print('You are old enough')
 > You need to cast the input which is always a string into an integer if you are going to compare it to an integer. You do this by wrapping the value in int().
 - ```python
     age = input('How old are you?\n')
-    if int(age) >= 21: #<- error caused here
+    if int(age) >= 13: #<- error caused here
         print('You are old enough')
 
 

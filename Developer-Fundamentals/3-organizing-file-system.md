@@ -29,5 +29,5 @@ The folder structrure for the project can vary from project to project.
 
 ## Exercise
 1. Create a folder in the CodingLessons Folder called classes.
-2. Create a folder for command line instructions in the digital crafts classes folder. (name the folder something logical)
+2. Create a folder for command line instructions in the classes folder. (name the folder something logical)
 3. Move the file "command-line.md" from the CodingLessons folder into the newly created folder.

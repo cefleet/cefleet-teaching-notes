@@ -53,7 +53,7 @@
     if 0:
         print('0 is a "falsey" statement. No Print')
     
-    if 3: #WTH?
+    if 3: #HUH?
         print('3 exists so it is a Truthy statment. Print!')
 ## Exercises
 1. Write a program that prints out the results of the following statments:

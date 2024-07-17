@@ -8,14 +8,8 @@
 > lesson-plans/code_snippits/what-does-it-do.py
 
 (0:15)
-## IDE Overview / File System
-> T: Developer-Fundedmentals/2-setting-up-dev-computer.md
-
-- VSCODE 
-- - Editor
-- - Exploror
-- - Terminal
-> TLE: Developer-Fundementals/3-organizing-file-system.md
+## Codespaces 
+> T: plans-suplemental/github-code-spaces.md
 
 (0:35)
 
@@ -24,9 +18,7 @@
 
 (0:55)
 ## Homework
-1. Verify that Python/VSCode/Google Chrome is installed
-
-2. Write a program that prints a haiku about programming. https://en.wikipedia.org/wiki/Haiku_in_English
+1. Write a program that prints a haiku about programming. https://en.wikipedia.org/wiki/Haiku_in_English
 
 - Accacptance criteria:
   - It can be silly but must follow the 5 - 7 -5 pattern across 3 different lines.
