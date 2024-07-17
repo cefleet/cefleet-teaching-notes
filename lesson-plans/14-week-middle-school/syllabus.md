@@ -22,6 +22,9 @@ CS Programming Bootcamp - Part 1 will introduce the students to the fundamentals
 4. Student will be in class, with their laptop open, and logged in ready to start by the time class starts. If these conditions are not met the student will be considered tardy (some leeway can be given based on circumstances).
 5. The student will not browse the internet at all during lectures and will not be on any unapproved websites during exercises. The only approved websites are directly related to the tasks given. Failure to comply with this will be grounds for discipline as outlined in the student handbook.
 
+## Outside Classroom Expectations
+The hs student should expect to spend at least a few hours a week outside of class working, studying and honing their developmental skills. During the final project, most of the work will need to be done outside of the classroom and several hours each week should be expected.
+
 ## Course Outline
 
 - Week 1
