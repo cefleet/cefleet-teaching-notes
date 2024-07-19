@@ -17,5 +17,5 @@
 
 (0:55)
 ## Homework
-1. Make sure that the excersises are completed.
+1. Make sure that the exercises are completed.
 3. Review code and prepare any questions about previous lessons you may have.

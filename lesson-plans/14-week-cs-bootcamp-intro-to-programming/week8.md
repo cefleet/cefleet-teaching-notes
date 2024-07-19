@@ -4,7 +4,7 @@
 ## Review Exercises
 
 (0:10)
-## Functiona arguments and parameters
+## Function arguments and parameters
 > TLE : Programming-102/7-functions-arguments-and-parameters.md
 
 (0:25)

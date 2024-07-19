@@ -9,7 +9,7 @@
 
 (0:15)
 ## Codespaces 
-> T: plans-suplemental/github-code-spaces.md
+> T: plans-supplemental/github-code-spaces.md
 
 (0:35)
 
@@ -20,7 +20,7 @@
 ## Homework
 1. Write a program that prints a haiku about programming. https://en.wikipedia.org/wiki/Haiku_in_English
 
-- Accacptance criteria:
+- Acceptance criteria:
   - It can be silly but must follow the 5 - 7 -5 pattern across 3 different lines.
   - The program needs to be saved in folder 
   > /CodingLessons/homework/haiku.py
