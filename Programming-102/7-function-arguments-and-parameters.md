@@ -51,8 +51,8 @@
     add_two_numbers("foo", "bar")
 
 
-## Exercies
-1. Creat a program that has a function that will multiply two numbers together and print out the results.
+## Exercise
+1. Create a program that has a function that will multiply two numbers together and print out the results.
     - Make the program properly handle an exception if something besides a number is passed as an argument.
     - Have it print out 3 different sets of numbers
 

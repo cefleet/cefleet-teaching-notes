@@ -5,7 +5,7 @@
 > lesson-plans/code-snippets/input-error.py
 
 ## CLI
-> TL : Developer-Fundamentals/2-repositories-get-basics.md
+> TL : Github/2-repositories-git-basics.md
 
 
 (0:20)
@@ -13,7 +13,6 @@
 > TLE : Programming-101/7-else-if.md
 
 > TLE : Programming-101/8-nesting-and-multiple-conditions.md
-
 
 
 ## Homework

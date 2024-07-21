@@ -86,7 +86,7 @@
     print(result)
 ## Exercises
 1. Write a program that has a function with two parameters. 
-    - return the concatinated value of the two parameters.
+    - return the concatenated value of the two parameters.
     - print the results.
 
 2. Write a program that has a function named total_count that expects a list of strings as it argument when the function is called.

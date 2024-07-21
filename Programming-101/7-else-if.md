@@ -7,7 +7,7 @@
 ## using else and elif
 - ```python
     age = input('How old are you?\n')
-    if int(age) >= 42:
+    if int(age) >= 13:
         print('You are old enough')
     else:
         print('You are not old enough')
@@ -16,9 +16,9 @@
     age = input('How old are you?\n')
     age = int(age)
 
-    if age == 42:
+    if age == 13:
         print('Looks like your lucky year')
-    elif age > 42:
+    elif age > 13:
         print('You are old enough')
     else:
         print('You are not old enough')
@@ -26,7 +26,7 @@
     #It will stop after a truthy condition
     if age > 40:
         print('Getting close')
-    elif age > 42:
+    elif age > 13:
         print('you are old enough')
     else: 
         print('You are too young')

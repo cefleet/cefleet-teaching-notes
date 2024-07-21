@@ -5,7 +5,7 @@
 
 (0:05)
 ## What Does it do?
-> lesson-plans/code_snippits/what-does-it-do.py
+> Debug-Sessions/what-does-it-do.py
 
 (0:15)
 ## Codespaces 

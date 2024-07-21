@@ -61,4 +61,4 @@
     - In the accelerate method, do not allow the vehicle to pass the top speed.
     - modify the instances of the vehicles to include acceleration and top speed when you instance the vehicles.
     - using a while loop and assuming each iteration of the loop is a 'second' have the vehicles 'race' by accelerating as much as possible on a drag strip for 20, 40, and 60 seconds to see who wins.
-    - (challange) instead of racing for a timeframe, make the race different distances. Position can be considered in meters. 
+    - (challenge) instead of racing for a timeframe, make the race different distances. Position can be considered in meters. 

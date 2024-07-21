@@ -8,14 +8,14 @@
 ## Terms
 - *Variable* - `Symbolic name given to an unknown quantity that permits the name to be used independent of the information it represents.`
 - *Type* - `Also called Data Type, is a classification of a particular 'type' of information. Different languages have different types that are used for different purposes.`
-- *String* - `Is a data type that is a grouping of text, numbers, and charecters.`
-- *Integer* - `A data type in many languages that represents a real integer. Integers allow for mathmatical operations.`
+- *String* - `Is a data type that is a grouping of text, numbers, and characters.`
+- *Integer* - `A data type in many languages that represents a real integer. Integers allow for mathematical operations.`
 - *Operator* - `Are characters to preform actions on values and variables.`
 
 ## Example of variable in usage
 
 ```python
-#Varaible getting the value of the string 'Hello World'
+#Variable getting the value of the string 'Hello World'
 # = is the assignment operator
 message = "Hello World" 
 print(message) 

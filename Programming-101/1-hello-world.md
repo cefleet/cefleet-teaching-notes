@@ -7,11 +7,11 @@
 ## Terms
 - *Expression* - `Piece of code that results in a single value`
 - *Statement* - `Single instruction that uses or manipulates values`
-- *Comment* - `In programming terms, a comment is a way of explaing something that is for the developers to better understand code, but is ignored by the program`
+- *Comment* - `In programming terms, a comment is a way of explaining something that is for the developers to better understand code, but is ignored by the program`
 
 ## Create Your First Program
 
-1. Create a new folder inside the CodingLessons/classes folder called "programming-101" (or something similer)
+1. Create a new folder inside the CodingLessons/classes folder called "programming-101" (or something similar)
 2. Open vscode and create a new file in this folder called "hello-world.py"
 3. ```python
     print("Hello World") #Prints 'Hello World'

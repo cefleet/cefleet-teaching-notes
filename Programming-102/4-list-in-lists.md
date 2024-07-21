@@ -36,7 +36,7 @@
     people[0][2] = 39 
     del people[1][2]
     print(people)
-## Looping thorugh nested lists
+## Looping through nested lists
 - ```python
     people = [
         ["Clint","Fleetwood", 38], 
@@ -63,14 +63,14 @@
             idx += 1
 ## Exercises
 1. Write a program that has a list of shopping lists that where each list is for a different food group.
-    - Print each full list on a seperate line.
+    - Print each full list on a separate line.
 ```python 
 ['Corn','Potatoes','Tomatoes']
 ['milk','eggs','cheese','yogurt']
 ['frozen pizza','popsicle']
 ```
 2. Using the code from the previous exercise, have each grouping have a title with the number in the title and each item of the list have a number in front of the item.
-    - (bonus) Have each of the titles of the main grouping be in a seperate list that gives the name to the heading.
+    - (bonus) Have each of the titles of the main grouping be in a separate list that gives the name to the heading.
 ```python
 1. Veggies
     1. Corn

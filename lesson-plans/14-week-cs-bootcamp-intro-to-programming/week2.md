@@ -1,7 +1,7 @@
 # Week 2
 (0:00)
 ## Debug Session
-> lesson-plans/code_snippits/hello-what.py
+> lesson-plans/code_snippits/2-hello-what.py
 
 (0:10)
 ## Variables

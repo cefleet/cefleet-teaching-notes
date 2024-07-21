@@ -6,7 +6,7 @@
 - Exercises
 
 ## Terms 
-- *Iterate* - `In programming to interate is to repeat actions on a set list or grouping of items`
+- *Iterate* - `In programming to iterate is to repeat actions on a set list or grouping of items`
 
 ## Loop through list with while
 - ```python
@@ -28,7 +28,7 @@
     - have a number in front of the printed name.
 
 2. Using a for loop, re-do the above exercise.
-    - (hint) you still need to create a variable that is incrimented.
+    - (hint) you still need to create a variable that is incremented.
 
 3. Create a program that will add the values of a list of numbers, and then print out the results.
     - (hint) You will need to create a variable to hold the current value.

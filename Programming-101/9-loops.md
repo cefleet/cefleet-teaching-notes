@@ -15,7 +15,7 @@
     while i <= 30:
         print(i)
         i += 1 #increment syntax
-        #deincrement (i -= 1) counts down
+        #decrement (i -= 1) counts down
 
 ## Infinite Loop
 - ```python
@@ -23,7 +23,7 @@
     while True: #True is always a truthy statement
         print(i)
         i += 1
-> You can use ctrl+c to stop the python proccess in the terminal
+> You can use ctrl+c to stop the python process in the terminal
 
 - ```python
     i = 0
@@ -44,7 +44,7 @@
 ## Exercises
 1. Create a program that will print from 1-10 using a while loop.
 2. Create a program that will print from 10-1 using a while loop.
-3. Create a program that has a variable named username and another variabled named password with values of your choice.
+3. Create a program that has a variable named username and another variable named password with values of your choice.
     - Prompt the user for a username and then a password.
     - If the both match continue on with the program and give a welcome message.
     - If not it prompts the user for the username and password until they get it correct.

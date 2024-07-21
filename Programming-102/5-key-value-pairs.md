@@ -9,8 +9,8 @@
 - Exercises
 
 ## Terms
-- *Dictionary* - `In python, a dictionary is a data type that is a grouping of data that uses keys to point to a value. Some languages have data types that are similer called things like maps, structs, or objects.`
-- *Key* - `In programming, a key is string, int, or one of a varity of data types that will allow the developer to access a value.`
+- *Dictionary* - `In python, a dictionary is a data type that is a grouping of data that uses keys to point to a value. Some languages have data types that are similar called things like maps, structs, or objects.`
+- *Key* - `In programming, a key is string, int, or one of a variety of data types that will allow the developer to access a value.`
 
 ## What is a key/value pair?
 - ```python
@@ -21,22 +21,22 @@
         "year":"1977"
     }
 - ```python
-    #Dictionaries can have multipe data types as values
+    #Dictionaries can have multiple data types as values
     movie = {
         "name":"Star Wars",
         "episode":4,
         "year":"1977",
-        "villans":["Vader", "Tarkin"],
+        "villains":["Vader", "Tarkin"],
         "heros":["Luke","Leia", "Han", "Obi-Won"]
     }
 
-## Accesing key/value pair
+## Accessing key/value pair
 - ```python
     movie = {
         "name":"Star Wars",
         "episode":4,
         "year":"1977",
-        "villans":["Vader", "Tarkin"],
+        "villains":["Vader", "Tarkin"],
         "heros":["Luke","Leia", "Han", "Obi-Won"]
     }
     #print from dictionary
@@ -48,11 +48,11 @@
     print(movie["heros"][1]) #Leia
 
     # the key can be a variable
-    search = "villans"
+    search = "villains"
     print(movie[search])
 
 - ```python
-    #check for existance
+    #check for existence
     if "ships" in movie:
         print(movie["ships"])
     else:

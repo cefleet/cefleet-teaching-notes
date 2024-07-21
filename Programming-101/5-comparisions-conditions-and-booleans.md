@@ -13,7 +13,7 @@
 ## What is a comparison
 
 - ```python
-    #Using comparision operators
+    #Using comparison operators
     print(1 == 2)   #False
     print(1 <  2)   #True
     print(1 >  2)   #False
@@ -54,16 +54,16 @@
         print('0 is a "falsey" statement. No Print')
     
     if 3: #HUH?
-        print('3 exists so it is a Truthy statment. Print!')
+        print('3 exists so it is a Truthy statement. Print!')
 ## Exercises
-1. Write a program that prints out the results of the following statments:
+1. Write a program that prints out the results of the following statements:
     - ```python
         1 == 3
         4 <= 4
         "a" == "a"
         10 > 11
         "b" > "c"
-2. Write a program that assigns the variable "my_number" any number of your choice. And prints out the results of any comparrison with 3 different numbers of your choosing.
-3. Write a program that assigns the varaible "name" a string.
+2. Write a program that assigns the variable "my_number" any number of your choice. And prints out the results of any comparison with 3 different numbers of your choosing.
+3. Write a program that assigns the variable "name" a string.
     - Create an if statement that compares the value of "name" to another string that has the same value of "name", and if it is the same print "YES these strings are the same!"
     - Create another if statement that compares the value of "name" with a string that does not have the same value, and if it does not have the same value print "NO These strings are different!"

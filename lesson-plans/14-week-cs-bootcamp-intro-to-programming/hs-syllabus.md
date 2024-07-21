@@ -72,12 +72,13 @@ The student should expect to spend at least a few hours a week outside of class 
 
 - Week 10
     - Python 101 - 4 - error handling
-    - Python 101 - 5 - standard libraries
+    - Python 101 - 5 - Built in
+    - Python 101 - 6 - standard libraries
 
 - Week 11
-    - Python 101 - 6 - splitting code and modules
+    - Python 101 - 7 - splitting code and modules
     - Github - 2 - codespaces configuration
-    - Python 101 - 7 - graphical libraries
+    - Python 101 - 8 - graphical libraries
 
 - Week 12 - 14
     - Final Project Workshop

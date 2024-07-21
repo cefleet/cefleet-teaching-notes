@@ -42,9 +42,9 @@
 - ```python
     some_number = 2
     some_number = some_number + 1 #add single number to the var
-    some_number += 1 #incrimentor operator (same as above)
+    some_number += 1 #incrementor operator (same as above)
     print(some_number)
-    some_number -= 1#decrimentor operator
+    some_number -= 1 #decrementor operator
     print(some_number)
 
 ## Exercises

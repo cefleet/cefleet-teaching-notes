@@ -22,7 +22,7 @@
 - ```python
     class Person:
         def __init__(ignore_for_now):
-            print('You have initilized the person class')
+            print('You have initialized the person class')
 
     #__init__ is special and called automatically, otherwise it's just a function
 

@@ -19,7 +19,7 @@
     '''
         Hey this string
         can span
-        mutiple lines?
+        multiple lines?
     '''
 - ```python
     """

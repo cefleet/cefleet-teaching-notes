@@ -41,7 +41,7 @@
         # Trying to catch the wrong error type
         print('It does not get here')
     except ZeroDivisionError:
-        print("You cannot divid by 0")
+        print("You cannot divide by 0")
 
 > TypeError, SyntaxError, ValueError and ZeroDivisionError are some of the common errors.
 
@@ -59,7 +59,7 @@
         imp = 100/"0" #This is a type error
     except:
         #This tells the developer the wrong information!
-        print('You cannot divid by 0!')
+        print('You cannot divide by 0!')
 >try / except should be as explicit as possible to prevent bugs that are hard to find.
 
 >Do not use try/ except to attempt to cover improper coding practices or sloppy code. 
@@ -75,7 +75,7 @@
     except ValueError: 
         print('You did not give a number')
 
-## Excercises
+## Exercises
 1. Create a program that asks the user for a number and then prints from that number to 0.
     - Handle the error if the user enters something other than a number.
 1. Create a program that ask a user for two numbers and then returns the sum (add), product(multiply), and quotient (division) of the two numbers.

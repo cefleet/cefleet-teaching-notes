@@ -5,12 +5,12 @@
 - Exercise
 
 ## Terms
-- *Nesting* - `In programming nesting describes putting code blocks or other syntaxtual items inside of another item`
+- *Nesting* - `In programming nesting describes putting code blocks or other syntactical items inside of another item`
 
 ## Put code blocks inside code blocks
 - ```python
     name = input("what is your name?")
-    # wrapping a string / varaible in len() outputs how many characters the string is.
+    # wrapping a string / variable in len() outputs how many characters the string is.
     if len(name) > 3:
         print('Your name is long enough')
         if len(name) > 15:
@@ -33,7 +33,7 @@
             else:
                 print("It's an ok length")
             
-            print(f"Welcme {name}")
+            print(f"Welcome {name}")
         else:
             print("That's way to long partner")
     else:
@@ -50,13 +50,13 @@
         else:
             print("It's an ok length")
             
-        print(f"Welcme {name}")
+        print(f"Welcome {name}")
     else:
         print('%s is not a good number of characters' % len(name))
 
 ## Exercises
 1. Create a program that will accept in input that is assigned to the variable pet_name. 
     - If pet_name length is less than 3 characters give a message that the name length is too short.
-    - If pet_name lenght is more than 3 characters output "AWWW sweet [pet_name]"
+    - If pet_name length is more than 3 characters output "AWWW sweet [pet_name]"
     - If pet_name is "Shadow" output ONLY "El Gato Diablo!"
     - If the input is equal to "Daisy" output ONLY "Good Dog!" 

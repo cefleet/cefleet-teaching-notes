@@ -6,7 +6,7 @@
 - Exercises
 
 ## Terms
-- *Function* - `A function is a self contained peice of code that preforms repeatable tasks without having to be re-written.`
+- *Function* - `A function is a self contained piece of code that preforms repeatable tasks without having to be re-written.`
 
 ## Creating a function
 - ```python

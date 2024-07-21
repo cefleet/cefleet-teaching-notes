@@ -7,17 +7,17 @@
 - Exercises
 
 ## Terms 
-- *lists* - `Lists are a data type of ordered gropuing of values. They are called arrays in most other languages.`
+- *lists* - `Lists are a data type of ordered grouping of values. They are called arrays in most other languages.`
 
 - *index* - `In a list or an array, it is the number representation of the position of an item in the list or array`
 
 ## What are the parts of a list?
 
 - ```python
-    [1,2,3] #List of intergers
+    [1,2,3] #List of integers
     ["hi", "my", "name", "is", "Clint"] #List of strings
     [1,"stringy", False] # List of mixed types
-> List start with an opening square bracket '[' have coma seperated values and then end with the closing sqaure bracket ']'.
+> List start with an opening square bracket '[' have coma separated values and then end with the closing square bracket ']'.
 
 ## Creating lists
 - ```python
@@ -47,7 +47,7 @@
     only_son = my_children[2]
     print(only_son) #Mark
 ## Exercises
-1. Create a program that has a list of at least 3 of your favorited foods in order and assign that list to a variable named "favorite_foods".
+1. Create a program that has a list of at least 3 of your favorite foods in order and assign that list to a variable named "favorite_foods".
     - print out the value of your favorite food by accessing by it's index.
     - print out the last item on the list as well.
 

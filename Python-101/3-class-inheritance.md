@@ -31,26 +31,26 @@
     class Hero(Unit):
         # method only available in the Hero Subclass
         def yell(self):
-            print("I %s, say to thou villian. Prepare to die!" % self.name)
+            print("I %s, say to thou villain. Prepare to die!" % self.name)
 
     hero = Hero("Sir Galahand")
     bad_guy = Unit("Evil McEvil")
     hero.yell()
     bad_guy.yell()#Error!
-## Overiding class methods
+## Overriding class methods
 - ```python
     class Hero(Unit):
         #overriding __init__
         def __init__(self):
-            #Can repeate for every item
+            #Can repeat for every item
             self.name = "Sir Galahand"
             self.health = 22
             self.attack_power = 3
-            self.defence = 1
+            self.defense = 1
 
         #overriding get_hit
         def get_hit(self, power):
-            self.health = self.health - (power-self.defence)
+            self.health = self.health - (power-self.defense)
         
         ...#yell method
     
@@ -58,7 +58,7 @@
     bad_guy = Unit('Evil McEvil', 10)
     print(hero.name)#added automatically 
     bad_guy.attack(hero)
-    print(hero.health)#health only went down by one because of defence
+    print(hero.health)#health only went down by one because of defense
 ## Use super to use parent class methods
 - ```python
     class Hero(Unit):
@@ -67,10 +67,10 @@
             #self is not the first arg!
             super().__init__("Sir Galahand", 22, 3)
             #calls the init from the parent 
-            self.defence = 1
+            self.defense = 1
         
         def get_hit(self, power):
-            super.get_hit(power-self.defence)
+            super.get_hit(power-self.defense)
             print("Ha Ha my defense is strong!")
 ## Exercises
 1. Continuing from the previous lessons' exercise. Create at least 2 sub classes of vehicles. 
