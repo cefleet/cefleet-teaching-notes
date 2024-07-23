@@ -46,7 +46,7 @@ In a Terminal
 
 - ```python
     from emoji import emojize #only uses the method you want
-    print(emojize(":heart:"))
+    print(emojize(":fire:"))
 ## Exercises
 1. Using standard library print out the number of seconds as an integer since the Epoch (December 31 1969), aka Unix time, rounded up to the nearest second. * Searching in the standard library page for "Unix time" should help you.
     - Extra credit get a random time between now and the epoch and print that date in a human readable format. (skip if this is taking to long to figure out.)
@@ -55,4 +55,3 @@ In a Terminal
         - correctly use the import
         - no vulgar, rude, or inappropriate text or emojis. 
         - Emoji list can be found here https://www.webfx.com/tools/emoji-cheat-sheet/
-
