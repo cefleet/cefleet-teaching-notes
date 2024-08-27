@@ -1,8 +1,8 @@
 # Week 3
 
 (0:00)
-## CLI
-> TL : Developer-Fundamentals/1-CLI-overview.md
+## Strings
+> TLE : Programming-101/4-strings.md
 
 (0:25)
 ## Logic Operations
