@@ -11,9 +11,6 @@
 ## Numbers
 > TLE : Programming-101/3-numbers.md
 
-(0:40)
-## Strings
-> TLE : Programming-101/4-strings.md
 
 (0:55)
 ## Homework

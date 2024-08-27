@@ -76,7 +76,7 @@
     Hello [person], 
     I hope that your [today] is going well. 
     I'm personally really [emotion].
-- Where [person], [today], [emotion] are variables and using 3 different syntaxes. 
+- Where [person], [today], [emotion] are variables and using 3 different ways of inserting the values. 
 - ```
     Hello Clint,
     I hope that your Thursday is going well.
