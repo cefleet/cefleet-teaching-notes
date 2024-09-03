@@ -76,7 +76,7 @@
     Hello [person], 
     I hope that your [today] is going well. 
     I'm personally really [emotion].
-- Where [person], [today], [emotion] are variables and using 3 different ways of inserting the values. 
+- Where [person], [today], [emotion] are variables and using 3 different ways of inserting / replacing the values. The same phrase will be repeated 3 times, but you will be using the 3 tequinques discussed to accomplish this. 
 - ```
     Hello Clint,
     I hope that your Thursday is going well.

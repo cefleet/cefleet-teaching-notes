@@ -1,12 +1,12 @@
 # Week 4
 
 (0:00)
-## Debug Session
-> lesson-plans/code-snippets/input-error.py
 
 ## CLI
 > TL : Github/2-repositories-git-basics.md
 
+## User Input
+> TLE: Programming-101/6-user-input.md
 
 (0:20)
 ## Additional conditions
