@@ -71,7 +71,7 @@
 ## Exercises
 1. Create a program that prints out the combination of two different strings.
 2. Print out a haiku that spans across multiple lines using only a single string.
-3. Create a program that prints the following 3 times: 
+3. Create a program that prints the following 3 items: 
 - ```
     Hello [person], 
     I hope that your [today] is going well. 
